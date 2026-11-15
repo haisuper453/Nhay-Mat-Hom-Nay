@@ -1,0 +1,389 @@
+{
+  "notice": "Các điềm báo dân gian chỉ mang tính giải trí, chưa được khoa học chứng minh.",
+  "fortunes": [
+    {
+      "startTime": "23:00",
+      "endTime": "01:00",
+      "period": "Giờ Tý",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Trong khung giờ này, nếu như bị giật mắt khoảng 1 - 3 lần thì ai đó đang nhắc hay nhớ đến bạn. Còn nếu giật liên tục và nhiều lần thì khả năng cao chị em đang bị trách móc."
+    },
+    {
+      "startTime": "01:00",
+      "endTime": "03:00",
+      "period": "Giờ Sửu",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Bạn sẽ gặp phải những chuyện không hay, hay các mối quan hệ tình cảm không được suôn sẻ. Ngoài ra, đây cũng là điềm báo cho thấy bạn không thể hoàn thành một công việc nào đó."
+    },
+    {
+      "startTime": "03:00",
+      "endTime": "05:00",
+      "period": "Giờ Dần",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Đây là điềm báo may mắn, cho bạn biết sắp tới bạn hay người thân của mình sẽ đón nhận tin vui. Thậm chí, có thể là đón tài lộc lớn trong việc kinh doanh, làm ăn của mình."
+    },
+    {
+      "startTime": "05:00",
+      "endTime": "07:00",
+      "period": "Giờ Mão",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Nếu như các chị em thấy mắt trái của mình giật liên tục trong khung giờ này thì đừng lo lắng nhé, vì bạn được một người nào đó đang nghĩ và nhớ đến."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "09:00",
+      "period": "Giờ Thìn",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Đây là điềm báo không may mà bạn nên cẩn thận về lời ăn tiếng nói. Bởi chị em có thể sẽ vướng vào chuyện thị phi không đáng có."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "period": "Giờ Tỵ",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Nếu như các bạn nữ giật mắt trong khung giờ này thì xin chúc mừng. Sắp tới bạn sẽ gặp được những thuận lợi trong công việc, hanh thông trong chuyện làm ăn."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "period": "Giờ Ngọ",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Trong khung giờ này, mắt trái nữ giật báo hiệu bạn sắp gặp được người thân ở nơi xa hoặc người khác sẽ đem tin vui đến cho bạn."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "period": "Giờ Mùi",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Các chị em không cần lo lắng và sợ khi giật mắt trong khung giờ này. Bởi bạn có thể sẽ nhận được những món quà bất ngờ từ người thương. Nếu như những bạn nữ còn đang độc thân thì khả năng cao sắp được tỏ tình."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "period": "Giờ Thân",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Bạn đang được ai đó nhắc đến một cách vui vẻ."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "period": "Giờ Dậu",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Chị em có dấu hiệu giật mắt trái liên tục từ 17 - 19 giờ cho thấy chuyện tình cảm có khởi sắc, tốt đẹp hơn trong vài ngày tới."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "period": "Giờ Tuất",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Nếu như đang có những dự định cho tương lai như chuyện kết hôn, xây nhà, kinh doanh thì bạn sẽ nhanh chóng thực hiện được."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "period": "Giờ Hợi",
+      "eye": "left",
+      "gender": "female",
+      "fortune": "Hãy chuẩn bị tinh thần vì bạn sắp có cuộc hội ngộ bất ngờ hay có khách ghé thăm nhà."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "01:00",
+      "period": "Giờ Tý",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Dự báo bạn sắp có được lợi mời ăn uống tiệc tùng trong thời gian tới. Có thể bạn sẽ có một khoảng thời gian vui vẻ."
+    },
+    {
+      "startTime": "01:00",
+      "endTime": "03:00",
+      "period": "Giờ Sửu",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Nữ nháy mắt phải vào giờ này bạn có thể bạn đang gặp phải sự trách móc từ mọi người vì thời gian này bạn đang thiếu sự quan tâm tới họ thì phải."
+    },
+    {
+      "startTime": "03:00",
+      "endTime": "05:00",
+      "period": "Giờ Dần",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Điềm báo bạn sắp gặp điều tốt lành và nhiều khả năng sẽ có được những bước đột phá trong công việc và cuộc sống. Vận tài lộc có cơ hội thăng tiến và bạn hoàn toàn có những vận may trong thời gian tới."
+    },
+    {
+      "startTime": "05:00",
+      "endTime": "07:00",
+      "period": "Giờ Mão",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Trong thời gian này nếu nữ nháy mắt phải có nghĩ là có điềm vui tới. Khả năng có được những cơ hội tốt đẹp giúp bạn có được vận tài lộc hoặc có người mang đến cho bạn lợi ích bất ngờ."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "09:00",
+      "period": "Giờ Thìn",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Dự báo có thể có vận xui rủi, có thể do nguyên nhân xuất phát từ chính sự nóng nảy của bạn. Đừng quá cố chấp và cẩn thận trong lời ăn tiếng nói của bạn để tránh gây ra những xích mích hoặc kiện tụng đáng tiếc."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "period": "Giờ Tỵ",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Nếu con gái nháy mắt phải giờ này có nghĩa là bạn sẽ gặp chuyện không vui trong các mối quan hệ và có thể đó là những tranh cãi, thậm chí là xổ xát. Hãy cố gắng tránh xa những chuyện thị phi ngoài lề để đề phòng những mâu thuẫn, đôi co."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "period": "Giờ Ngọ",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Điềm báo trong ngày mới và một số ngày tiếp theo bạn sẽ có thể gặp vận xủi xẻo đặc biệt là vấn đề sức khỏe có thể gặp tai nạn hoặc mất tiền bạc. Do đó bạn sẽ cần trọng với hiện tượng nháy mắt nào xảy ra."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "period": "Giờ Mùi",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Đây là điềm báo không lành và bạn có thể gặp chuyện không vừa ý, dễ xảy ra chuyện phải sử dụng chi tiêu tiền bạc quá mức. Có lẽ bạn sẽ cần tới việc chi tiền bạc để giải quyết công việc nhé."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "period": "Giờ Thân",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Xem bói tử vi nhận thấy nếu nữ nháy mắt phải khung giờ Thân thì nhiều khả năng đây là điềm báo tốt lành trong quan hệ tình cảm. Bạn sẽ có thể gặp những chuyện vui vẻ và có ai đó sẵn lòng giúp đỡ, theo đuổi bạn. Bạn có thể nhận được những món quà bất ngờ đấy nhé."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "period": "Giờ Dậu",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Nếu như trong giờ Dậu, nữ nháy mắt phải thì dự báo vận trình sắp tới của bạn sẽ có sự thay đổi theo chiều hướng tốt lành. Có thể bạn sẽ nhận được tin tức từ người thân hay có cuộc gặp gỡ với bạn bè, các mối quan hệ đối tác, tình thân lâu ngày. Vì vậy, hãy chuẩn bị thật kỹ để đón tiếp vị khách quý này nhé."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "period": "Giờ Tuất",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Trong khung giờ này nếu giật mắt phải ở nữ liên tục có nghĩa là bạn sắp có điềm báo đi xa. Nhiều khả năng bạn sẽ tham gia vào những cuộc vui chơi, chuyến đi với tâm trạng vô cùng hào hứng, vui vẻ. Có điều hãy chuẩn bị sức khỏe và tinh thần thật tốt cho sự kiện sắp tới này."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "period": "Giờ Hợi",
+      "eye": "right",
+      "gender": "female",
+      "fortune": "Xem bói nháy mắt phải nữ nhận định nếu vào giờ Hợi bạn nháy mắt liên tục là điềm báo đáng lo ngại. Nhiều khả năng bạn gặp phải kẻ tiểu nhân cản đường và dễ có những mâu thuẫn làm ảnh hưởng tới hình ảnh của bạn. Vì vậy, bạn nên tránh càng xa càng tốt các chuyện ngoài lề hay bàn tán kẻo dễ có chuyện không hay đến với mình."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "01:00",
+      "period": "Giờ Tý",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Cho thấy sắp tới bạn sẽ được mời ăn uống. Đó có thể là một buổi hẹn hò với người yêu hoặc một cuộc gặp gỡ với bạn bè, đối tác."
+    },
+    {
+      "startTime": "01:00",
+      "endTime": "03:00",
+      "period": "Giờ Sửu",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Nếu mắt phải của đàn ông co giật bất thường, đây là tín hiệu cho thấy bạn đã làm buồn lòng người thân."
+    },
+    {
+      "startTime": "03:00",
+      "endTime": "05:00",
+      "period": "Giờ Dần",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Theo quan niệm dân gian, mắt phải của nam giới giật liên tục trong một thời gian ngắn chính là điềm báo về sự may mắn. Đặc biệt, công việc của bạn rất có thể sẽ thăng tiến nhanh chóng trong thời gian tới."
+    },
+    {
+      "startTime": "05:00",
+      "endTime": "07:00",
+      "period": "Giờ Mão",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Mang ý nghĩa may mắn trong vấn đề tiền bạc và tài chính."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "09:00",
+      "period": "Giờ Thìn",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Là dấu hiệu cho thấy bạn có thể gặp phải tranh cãi, đàm tiếu và xung đột. Vì vậy, bạn nên cẩn trọng trong từng lời nói."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "period": "Giờ Tỵ",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Giật mắt phải nam thường là điềm báo cho những xui xẻo. Nếu bị giật mắt phải trong khung giờ này, bạn sẽ dễ xảy ra tranh cãi, xô xát. Do đó, bạn nên tránh giao tiếp quá nhiều để hạn chế bất đồng và giữ bình tĩnh nhé!"
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "period": "Giờ Ngọ",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Theo quan niệm dân gian, giật mắt phải nam vào giờ Ngọ được cho là liên quan đến sức khỏe và tài chính. Đây chỉ là quan niệm truyền miệng, không có cơ sở khoa học để đánh giá tình trạng sức khỏe."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "period": "Giờ Mùi",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Giật mắt phải nam vào giờ Mùi cho biết bạn cần cảnh giác về việc có thể bị mất trộm tài sản."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "period": "Giờ Thân",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Đây là điềm báo điều tốt đẹp về mặt tình cảm sắp đến."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "period": "Giờ Dậu",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Cho thấy bạn sắp nhận được tin vui từ con cái, gia đình."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "period": "Giờ Tuất",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Đây cũng là dấu hiệu liên quan đến việc sức khỏe đang bắt đầu đi xuống."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "period": "Giờ Hợi",
+      "eye": "right",
+      "gender": "male",
+      "fortune": "Việc giật mắt trong giờ Hợi cho thấy bạn cần hết sức cẩn thận về việc bản thân đang bị kẻ xấu lợi dụng."
+    },
+    {
+      "startTime": "23:00",
+      "endTime": "01:00",
+      "period": "Giờ Tý",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Gặp gỡ và ăn uống cùng bạn bè."
+    },
+    {
+      "startTime": "01:00",
+      "endTime": "03:00",
+      "period": "Giờ Sửu",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Gia đình gặp hạn, có thể liên quan đến cha mẹ hoặc anh chị em."
+    },
+    {
+      "startTime": "03:00",
+      "endTime": "05:00",
+      "period": "Giờ Dần",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Tin tốt về sức khỏe hoặc thăng tiến trong công việc."
+    },
+    {
+      "startTime": "05:00",
+      "endTime": "07:00",
+      "period": "Giờ Mão",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Công việc thuận lợi và ổn định, con đường thành công rộng mở."
+    },
+    {
+      "startTime": "07:00",
+      "endTime": "09:00",
+      "period": "Giờ Thìn",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Mâu thuẫn, xung đột với đối thủ."
+    },
+    {
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "period": "Giờ Tỵ",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Niềm vui khi được khách quý lâu ngày ghé thăm."
+    },
+    {
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "period": "Giờ Ngọ",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Tin vui và những lời khen chúc mừng sẽ đến."
+    },
+    {
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "period": "Giờ Mùi",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Công sức làm việc được đánh giá cao nhưng cần cải thiện."
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "period": "Giờ Thân",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Điều bất ngờ sẽ xảy đến với bạn."
+    },
+    {
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "period": "Giờ Dậu",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Có người giúp đỡ, hợp tác làm ăn lâu dài."
+    },
+    {
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "period": "Giờ Tuất",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Dự báo tốt lành, con đường tài lộc rộng mở."
+    },
+    {
+      "startTime": "21:00",
+      "endTime": "23:00",
+      "period": "Giờ Hợi",
+      "eye": "left",
+      "gender": "male",
+      "fortune": "Hội ngộ bạn lâu năm hoặc người thân từ xa về thăm nhà."
+    }
+  ]
+}
